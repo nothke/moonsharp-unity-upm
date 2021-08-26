@@ -1,8 +1,17 @@
 {
   "name": "moonsharp",
-  "displayName": "Moonsharp",
+  "displayName": "MoonSharp",
   "version": "2.0.0",
-  "unity": "2018.1",
-  "description": "Vehicle AI that uses path following",
-  "type": "library"
+  "description": "A complete Lua solution written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms.\n\nhttps://www.moonsharp.org",
+  "type": "library",
+  "documentationURL": "https://www.moonsharp.org/",
+  "changelogUrl": "https://www.moonsharp.org/changelog.html",
+  "licenseUrl": "https://github.com/moonsharp-devs/moonsharp/blob/master/LICENSE",
+  "license": "BSD-3-Clause",
+  "author": {
+    "name": "MoonSharp Devs",
+    "email": "marco@mastropaolo.com",
+    "url": "https://github.com/moonsharp-devs"
+  },
+  "keywords": ["lua", "scripting"]
 }
