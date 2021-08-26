@@ -1,0 +1,8 @@
+{
+  "name": "moonsharp",
+  "displayName": "Moonsharp",
+  "version": "2.0.0",
+  "unity": "2018.1",
+  "description": "Vehicle AI that uses path following",
+  "type": "library"
+}
